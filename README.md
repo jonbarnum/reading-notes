@@ -12,8 +12,7 @@ Growth mindset to me means taking challenges and learning from them. With learni
 5. Hit the believe button.
 
 
-#### P.T Barnum once said > Comfort is the enemy to progress
-This is my motto
-
+#### This is my motto
+P.T Barnum once said > Comfort is the enemy to progress
 
 
