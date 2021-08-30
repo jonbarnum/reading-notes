@@ -17,4 +17,4 @@ P.T Barnum once said:
 > Comfort is the enemy to progress
 
 
-Link to my Github profile [(https://github.com/jonbarnum)]
+Link to my Github profile [https://github.com/jonbarnum]
