@@ -34,3 +34,4 @@ Words then a vertical line then Words
 
 GitHub allows developers to show the world their skills through repositories. Those who are interested in you and those you want to show your work to can look up your personal profile or the company's profile that allows them to search your created work. Github will store your work and allow you to edit later.
 
+[Back to table of contents](README.md)
