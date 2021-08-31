@@ -11,9 +11,13 @@ Is a markup language for websites. It will help the coder decide how the web pag
 Setting up the basic web page.
 
 Opening tag with explimation and DOCTYPE html.
+
 Opening/closing tag with html.
+
 Opening/closing tag with head.
+
 Then opening tag with meta charset=utf-8.
+
 Then opening/closing tag with a title of work.
 
 
