@@ -10,7 +10,7 @@ Is a markup language for websites. It will help the coder decide how the web pag
 
 Setting up the basic web page.
 
-Opening tag with explamation and DOCTYPE html.
+Opening tag with exclamation and DOCTYPE html.
 
 Opening/closing tag with html.
 
