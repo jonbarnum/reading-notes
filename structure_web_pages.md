@@ -9,15 +9,15 @@ This is the process of deciding on how you want your html page to look. Through 
 Is a markup language for websites. It will help the coder decide how the web page should look. There are many things one can do with a web page. Each web page is composed of elements and each element had tags at the beginning and of the element such as <>words<>. Inside of the angle brackets a coder will put something inside of it so it can be identified.
 
 Setting up the basic web page.
-“<!DOCTYPE html.>
-<html>
-	<head>
-		<meta charset=”utf-8>
-		<title>title of page</title>
-	</head>
-	<body>
-	</body>
-</html>”
+><!DOCTYPE html.>
+><html>
+>	<head>
+>		<meta charset=”utf-8>
+>		<title>title of page</title>
+>	</head>
+>	<body>
+>	</body>
+></html>
 
 To add a header, inside the tag, place an h1 to h4. H1 will give the largest header.
 To add a paragraph, place a p inside the tag.
