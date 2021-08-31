@@ -10,11 +10,11 @@ Is a markup language for websites. It will help the coder decide how the web pag
 
 Setting up the basic web page.
 
-opening tag with explimation and DOCTYPE html
-opening/closing tag with html
-opening/closing tag with head
-then opening tag with meta charset=utf-8
-then opening/closing tag with a title of work
+Opening tag with explimation and DOCTYPE html.
+Opening/closing tag with html.
+Opening/closing tag with head.
+Then opening tag with meta charset=utf-8.
+Then opening/closing tag with a title of work.
 
 
 To add a header, inside the tag, place an h1 to h4. H1 will give the largest header.
