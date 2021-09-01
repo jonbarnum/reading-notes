@@ -3,10 +3,10 @@
 CSS helps the web page with style. This could include color, background images, font style and much more. It stands for cascading style sheet (CSS). When a coder is using CSS, one must select a selector from the html document such as p or h2. To find these one will need to look inside the html tags. Start off by declaring the selected then use curly braces {}. Inside the curly braces add the property such as color followed by : and the value such as blue. One thing that will be useful as one is creating style for a web page is to find a website that allows one to see what is compatible with other web browsers.
 
 Example: 
- ```
-p {
-	Color: blue;	
-}
+ ```css
+    p {
+	    Color: blue;	
+    }
 ```
 
 
