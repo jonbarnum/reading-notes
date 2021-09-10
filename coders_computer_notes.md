@@ -20,4 +20,6 @@ Extensions with .**png**, .**jpeg**, or .**gif** is a file that is an image.
 
 When using a terminal it is case sensitive as well as one needs to be careful with spacing. When there is a space between words, the terminal will only look for the first word. If one is searching for two words then they can add quotations around the words and terminal will search for the words. Another way to search for both words is putting a backslash between the words. This will look for both words as well.
 
-[Back to table of contents](README.md)
+[Back to main](README.md)
+[Back to class 102 notes table of contents](README.md)
+[To class 201 notes](class_201_notes.md)

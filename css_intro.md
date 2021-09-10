@@ -25,4 +25,6 @@ When the browser is trying to figure out which order to put CSS in it will place
 
 When adding color there are a couple of different options to choose from. One is typing the color in such as red. Another option is using the hex color code system which starts with a pound symbol followed by 6 digit code that includes numbers and letters. Lastly there is the RGB color system as well. Since there are so many different combinations on both the hex and RGB one can simply go to google, type in hex color and choose a color from the color picker and google will show that number. Simply place the number into your CSS code
 
-[Back to table of contents](README.md)
+[Back to main](README.md)
+[Back to class 102 notes table of contents](README.md)
+[To class 201 notes](class_201_notes.md)

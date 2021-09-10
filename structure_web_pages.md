@@ -29,4 +29,6 @@ For links place an a inside the tag. On the beginning tag also place a hfre that
 
 Each code will have meaning, which is aka semantics. Everything that is written in code will have meaning. Each code that is placed will make the web page look different depending on what is written. Some semantics areas would be headers, footers, articles and section to name a few. 
 
-[Back to table of contents](README.md)
+[Back to main](README.md)
+[Back to class 102 notes table of contents](README.md)
+[To class 201 notes](class_201_notes.md)

@@ -1,12 +1,9 @@
 # Table of Contents
-- [Markdown Reading](markdown_notes.md)
-- [Coder's Computers Reading](coders_computer_notes.md)
-- [Revisions and the Cloud](revisions_and_the_cloud.md)
-- [Structuring a Web Page](structure_web_pages.md)
-- [Intro to CSS](css_intro.md)
-- [JavaScript Intro](javascript_intro.md)
-- [JS Operators](js_operators.md)
-- [JS Loops](js_loops.md)
+
+## Table of Contents
+
+[Class 102 Notes](class_102_notes.md)
+[Class 201 Notes](class_201_notes.md)
 
 ## Introduction
 Hello, My name is Jon Barnum. I am a native from Utah where I have been living here on and off for most of my life. I was in the Army as a military police and decided being a police officer was not for me. I then went on to become a registered nurse where I worked in the emergency department. Though I did enjoy some of the work it became apparent to me that I was destined to do something more fulfilling in my life. I have a beautiful wife and 4 awesome kids that keep me very busy.

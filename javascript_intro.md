@@ -35,4 +35,6 @@ Some of the basic ingredients for JS are:
 
 By knowing these essentials a coder can turn a website into an interactive website that enhances the user experience.
 
-[Back to table of contents](README.md)
+[Back to main](README.md)
+[Back to class 102 notes table of contents](README.md)
+[To class 201 notes](class_201_notes.md)

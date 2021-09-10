@@ -37,4 +37,6 @@ Take a block of code that you want to do something, you now have a function. Tha
 
 The syntax for a function is,  Function then a name for the function then () {}. The code written inside {} is what you want to be executed. Inside the parentheses will be the parameters. If the code is written with a return statement then the code will stop executing once it gets to the return statement and returns a value.
 
-[Back to table of contents](README.md)
+[Back to main](README.md)
+[Back to class 102 notes table of contents](README.md)
+[To class 201 notes](class_201_notes.md)

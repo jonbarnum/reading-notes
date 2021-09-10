@@ -19,4 +19,6 @@ If a code will want to end a loop then they can use the **break statement**.
 If a coder will want to start the loop again then can use the **continued statement**.
 
 
-[Back to table of contents](README.md)
+[Back to main](README.md)
+[Back to class 102 notes table of contents](README.md)
+[To class 201 notes](class_201_notes.md)

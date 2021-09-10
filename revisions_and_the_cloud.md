@@ -30,4 +30,6 @@ If you have multiple files that you have changed throughout the coding process t
 
 There are other functions that you can use from the terminal. One would be able to see remote repositories by typing git remote. One would also be able to fetch data that needs to be pulled down from Github by typing git fetch and then the remote name. Push information back to GitHub git push. When collaborating with others one will be able to create branches so others can work on the project. In turn there are many options you can do with others for the branches such as creating new ones, merging, renaming, deleting, and previewing.
 
-[Back to table of contents](README.md)
+[Back to main](README.md)
+[Back to class 102 notes table of contents](README.md)
+[To class 201 notes](class_201_notes.md)
