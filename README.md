@@ -2,7 +2,12 @@
 
 ## Table of Contents
 
+## 102 Class Reading Notes
+
 [Class 102 Notes](class_102_notes.md)
+
+## 201 Class Reading Notes
+
 [Class 201 Notes](class_201_notes.md)
 
 ## Introduction
