@@ -2,6 +2,7 @@
 
 ## Table on Contents
 
+[HTML and JS Intro Notes](html_js_intro.md)
 
 
 [Back to Main](README.md)
