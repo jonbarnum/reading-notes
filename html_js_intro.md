@@ -7,18 +7,17 @@ The structure of a web page is html.  To start a basic web page there are a few 
 -Each web page will have a body, head, title that will look something like this.
 
 ~~~
-    <!DOCTYPE html>
-    <html>
-	<head>
-	</head>
-
-		<body>
-		  <header>
-          </header>
-          <footer>
-          </footer>
-		</body
-    </html>
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+     <body>
+       <header>
+       </header>
+       <footer>
+       </footer>
+     </body
+</html>
 ~~~
 
 
