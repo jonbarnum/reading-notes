@@ -9,14 +9,14 @@ The structure of a web page is html.  To start a basic web page there are a few 
 ~~~
     <!DOCTYPE html>
     <html>
-		<head>
-		</head>
+	<head>
+	</head>
 
 		<body>
-			<header>
-            </header>
-            <footer>
-            </footer>
+		  <header>
+          </header>
+          <footer>
+          </footer>
 		</body
     </html>
 ~~~
