@@ -11,5 +11,5 @@
 - [JS Operators](js_operators.md)
 - [JS Loops](js_loops.md)
 
-[Back to Main](README.md)
-[To 201 Class Notes](class_201_notes.md)
+- [Back to Main](README.md)
+- [To 201 Class Notes](class_201_notes.md)

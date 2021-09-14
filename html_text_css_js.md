@@ -74,6 +74,6 @@ If statements can be used as well. If statements will check a condition and if t
 
 If else statements will look at the code expression and check to see if the condition is met and if it is then the first expression will execute but if it does not meet the condition in the first expression then the second (else) expression will execute.
 
-[Back to Main](README.md)
-[To 201 Table of Contents](class_201_notes.md)
-[To 102 Class Notes](class_102_notes.md)
+- [Back to Main](README.md)
+- [To 201 Table of Contents](class_201_notes.md)
+- [To 102 Class Notes](class_102_notes.md)
