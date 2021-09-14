@@ -80,6 +80,7 @@ Loops will take a code block and check a condition. If the loop finds something 
 ``` for (let i = 0; i < 5; i++) ``` when you document for i, it will start at 0 and ask if 0 is less the 5 and then it will increment by 1 then start at 1 and ask if it is less than 5 and go through this process until it gets to 5 which then make the loop stop because 5 is not less than 5. The let i = 0 is what is called the initialization, i < 5 is the condition and the i++ is the update. A quick note; if the loop never returns a false then the loop will go on forever. There are different types of loops as well. In the above example code is a for loop which will run through an array of items. A while loop is very similar, however the variable needs to be declared outside of the loop.The Do...while loop is very similar as well. The variable needs to be declared outside of the loop and it must be executed once.
 
 Duckett, J. (2014). Basic JavaScript Instructions and Decisions and Loops. In JavaScript & jQuery ; HTML & CSS. essay, John Wiley & Sons. 
+
 Duckett, J. (2011). List, Boxes. In HTML & CSS: Design and build web sites. essay, Wiley. 
 
 - [Back to Main](README.md)
