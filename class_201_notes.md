@@ -6,6 +6,7 @@
 - [HTML text, CSS intro, JS intro](html_text_css_js.md)
 - [HTML list, CSS boxes, JS Loops](html_css_basics_js_loops.md)
 - [HTML links, CSS boxes, JS functions](html_links_js_functions.md)
+- [HTML images, CSS color, CSS text](html_color_css_color.md)
 
 
 - [Back to Main](README.md)

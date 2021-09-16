@@ -76,4 +76,4 @@ If else statements will look at the code expression and check to see if the cond
 
 - [Back to Main](README.md)
 - [To 201 Table of Contents](class_201_notes.md)
-- [To 102 Class Notes](class_102_notes.md)
+- [To 102 Class Notes](class_102_notes.md)ls
