@@ -8,7 +8,7 @@
 - [HTML links, CSS boxes, JS functions](html_links_js_functions.md)
 - [HTML images, CSS color, CSS text](html_images_css_color.md)
 - [JS objects and DOM](js_objects_dom.md)
-
+- [HTML tables](html_tables.md)
 
 - [Back to Main](README.md)
 - [To 102 Class Notes](class_102_notes.md)

@@ -34,4 +34,4 @@ John Wiley & Sons Inc. (2013). JavaScript & JQuery.
 
 - [Back to Main](README.md)
 - [To 201 Table of Contents](class_201_notes.md)
-- [To 102 Class Notes](class_102_notes.md)ls
+- [To 102 Class Notes](class_102_notes.md)
