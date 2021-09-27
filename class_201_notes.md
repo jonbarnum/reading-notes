@@ -12,6 +12,7 @@
 - [CSS Layout](css_layout.md)
 - [HTML forms, CSS tables, JS events](html_forms_css_tables_js_events.md)
 - [JS debugging](js_debugging.md)
+- [CSS images](css_images.md)
 
 - [Back to Main](README.md)
 - [To 102 Class Notes](class_102_notes.md)
