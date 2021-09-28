@@ -14,6 +14,7 @@
 - [JS debugging](js_debugging.md)
 - [CSS images](css_images.md)
 - [HTML Charts](html_charts.md)
+- [Local Storage](local_storage.md)
 
 - [Back to Main](README.md)
 - [To 102 Class Notes](class_102_notes.md)
