@@ -1,6 +1,6 @@
 # CSS Transform
 
-CSS transforms come into two different properties, two dimension and three dimensional. The only problem is that some browsers do not support transform. 2d transform is used by ```transform: rotate(40deg)``` This will rotate an object by 40 degrees. You can also use ```transform: scale(.65)```. A programmer can also use scaleX, scaleY if they want to scale just the x axis or the y axis. ```transform: shew(10deg)``` will distort the image by a certain degree. Also, a programmer can isolate the x or y axis.  Other options are perspective. For 3d items use the ```scaleZ(.50)`` as an example. The sacceZ uses the z axis.
+CSS transforms come into two different properties, two dimension and three dimensional. The only problem is that some browsers do not support transform. 2d transform is used by ```transform: rotate(40deg)``` This will rotate an object by 40 degrees. You can also use ```transform: scale(.65)```. A programmer can also use scaleX, scaleY if they want to scale just the x axis or the y axis. ```transform: schew(10deg)``` will distort the image by a certain degree. Also, a programmer can isolate the x or y axis.  Other options are perspective. For 3d items use the ```scaleZ(.50)`` as an example. The sacceZ uses the z axis.
 
 ## Transitions
 
